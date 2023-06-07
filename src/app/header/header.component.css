@@ -1,0 +1,21 @@
+.header {
+    height: 300px; /* Adjust the height as needed */
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+  }
+  
+  .header-content {
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the background color and opacity as desired */
+  }
+  
+  .header-title {
+    color: white;
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
